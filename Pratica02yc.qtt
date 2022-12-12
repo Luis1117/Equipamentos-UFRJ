@@ -1,0 +1,12 @@
+QtiPlot 0.9.8 template file
+<table>	109	11
+geometry	557	79	795	274	active
+header	1[X]	2[Y]	3[Y]	1400[Y]	4[Y]	5[Y]	164429[Y]	6[Y]	7[Y]	8[Y]	-1248933E01[Y]
+ColWidth	51	100	100	100	100	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0	0	0	0	0	0
+Comments				1.400			1.64429				-1.248933E+01	
+</table>
